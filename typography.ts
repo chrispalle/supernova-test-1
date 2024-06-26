@@ -1800,6 +1800,31 @@ const navLinkSmall = {
                         css: "0px"
                        },
          };
+const paragraphXl = {
+           fontFamily: "Lato",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 20,
+                      unit: "Pixels",
+                      css: "20px"
+                     },
+           lineHeight: {
+                          measure: 155,
+                          unit: "Percent",
+                          css: "155%"
+                         },
+           letterSpacing: {
+                             measure: 1,
+                             unit: "Percent",
+                             css: "1%"
+                            },
+           textIndent: {
+                        measure: 0,
+                        unit: "Pixels",
+                        css: "0px"
+                       },
+         };
 
 
 export const Typographies = {
@@ -1875,4 +1900,5 @@ export const Typographies = {
       navButton,
       navLink,
       navLinkSmall,
+      paragraphXl,
 }

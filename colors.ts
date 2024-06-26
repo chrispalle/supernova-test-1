@@ -132,6 +132,7 @@ const alertsInformational400 = "#3491de";
 const alertsInformational300 = "#80bbeb";
 const alertsInformational200 = "#d9ebfa";
 const alertsInformational100 = "#f2f8fe";
+const alertsWarning500 = "#fcba03";
 
 export const Colors = {
     brandLegacyPrimaryWvOrange,
@@ -268,4 +269,5 @@ export const Colors = {
     alertsInformational300,
     alertsInformational200,
     alertsInformational100,
+    alertsWarning500,
 }
