@@ -1,18 +1,18 @@
 
 :root {
-    --colorBrandLegacyPrimaryWvOrange: #ff6b00;    
-    --colorBrandLegacyPrimaryWvOrange80: #ff8833;    
-    --colorBrandLegacyPrimaryWvOrange60: #ffa666;    
-    --colorBrandLegacyPrimaryWvOrange40: #ffc399;    
-    --colorBrandLegacyPrimaryWvOrange20: #ffe1cc;    
-    --colorBrandLegacyPrimaryWvBlack: #000000;    
-    --colorBrandLegacyPrimaryWvCharcoal: #333333;    
-    --colorBrandLegacyPrimaryWvDarkGrey: #666666;    
-    --colorBrandLegacyPrimaryWvGrey: #999999;    
-    --colorBrandLegacyPrimaryWvLightGrey: #cccccc;    
-    --colorBrandLegacyPrimaryWvWhite: #ffffff;    
-    --colorBrandLegacyPrimaryWvFieldGrey: #cac4bb;    
-    --colorBrandLegacyPrimaryWvLightestGrey: #f5f5f5;    
+    --colorColorWvOrange: #ff6b00;    
+    --colorColorWvOrange80: #ff8833;    
+    --colorColorWvOrange60: #ffa666;    
+    --colorColorWvOrange40: #ffc399;    
+    --colorColorWvOrange20: #ffe1cc;    
+    --colorColorWvBlack: #000000;    
+    --colorColorWvCharcoal: #333333;    
+    --colorColorWvDarkGrey: #666666;    
+    --colorColorWvGrey: #999999;    
+    --colorColorWvLightGrey: #cccccc;    
+    --colorColorWvWhite: #ffffff;    
+    --colorColorWvFieldGrey: #cac4bb;    
+    --colorColorWvLightestGrey: #f5f5f5;    
     --colorWebOnlyLegacyWvLighterBlue: #d9f3f7;    
     --colorWebOnlyLegacyWvLightestBlue: #edf9fb;    
     --colorBrandLegacySecondaryWvBlue: #00accb;    
@@ -22,7 +22,7 @@
     --colorBrandLegacySecondaryWvPurple: #9054a1;    
     --colorBrandLegacySecondaryWvMaroon: #842e14;    
     --colorWebOnlyLegacyWvWebRed: #e54f5e;    
-    --colorBrandLegacyPrimaryWvMediumGrey: #7d7d7d;    
+    --colorColorWvMediumGrey: #7d7d7d;    
     --colorInspire1000: #331500;    
     --colorInspire900: #331500;    
     --colorInspire800: #662b00;    
